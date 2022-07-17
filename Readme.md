@@ -1,4 +1,4 @@
-# Twitch ad runner
+# Twitch playground
 
 ## Getting started
 
